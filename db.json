@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+            "description": "Programming is about polishing the craft with years of trial and error. I wish there was a way to save yourself from all the hard work by learning from the mistakes of other programmers? Fortunately, there is, and it is known to the world as the Clean Code: A Handbook of Agile Software Craftsmanship book from the legendary Uncle Bob.",
+            "author": "Robert C. Martin",
+            "id": 1
+        },
+        {
+            "title": "Introduction to Algorithms",
+            "description": "The name of the book is self-explanatory. It is what the title suggests, i.e., Introduction to Algorithms. Also known as CLRS, a reference to the last name of the authors of the book, it goes in-depth into a range of algorithms divided across several self-contained chapters.",
+            "author": "Thomas H",
+            "id": 2
+        },
+        {
+            "title": "Code Complete: A Practical Handbook of Software Construction",
+            "description": "Want to know how to write robust code irrespective of the architecture of a programming language? Then consider reading the Code Complete: A Practical Handbook of Software Construction. It comprehensively covers all the aspects of the structure of good code.",
+            "author": "Steve McConnell",
+            "id": 3
+        },
+        {
+            "title": "Continuous Delivery",
+            "description": "Getting software released to users is often a painful, risky, and time-consuming process. This groundbreaking new book sets out the principles and technical practices that enable rapid, incremental delivery of high quality, valuable new functionality to users. Through automation of the build, deployment, and testing process, and improved collaboration between developers, testers, and operations, delivery teams can get changes released in a matter of hours— sometimes even minutes–no matter what the size of a project or the complexity of its code base.",
+            "author": "Humble & David Farley",
+            "id": 4
+        },
+        {
+            "title": "Algorithms",
+            "description": "The algorithms in this book represent a body of knowledge developed over the last 50 years that has become indispensable, not just for professional programmers and computer science students but for any student with interests in science, mathematics, and engineering, not to mention students who use computation in the liberal arts.",
+            "author": "Robert Sedgewick & Kevin Wayne",
+            "id": 5
+        }
+    ]
+}
