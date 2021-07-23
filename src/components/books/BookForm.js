@@ -47,7 +47,7 @@ const BookForm = () => {
             <TextField
                 fullWidth
                 required
-                // margin="normal"
+                margin="normal"
                 name="title"
                 label="Title"
                 value={title}
@@ -57,7 +57,7 @@ const BookForm = () => {
                 fullWidth
                 multiline
                 required
-                // margin="normal"
+                margin="normal"
                 name="description"
                 label="Description"
                 value={description}
